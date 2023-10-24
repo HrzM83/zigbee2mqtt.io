@@ -35,8 +35,7 @@ While pairing, keep the valve close to the coordinator.
 
 
 ## OTA updates
-This device supports OTA updates, for more information see [OTA updates](../guide/usage/ota_updates.md).
-
+OTA is currently broken, don't perform any update. It may harm your device.
 
 
 ## Exposes
